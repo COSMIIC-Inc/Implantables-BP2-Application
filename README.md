@@ -1,4 +1,4 @@
-# Implantables-BiopotentialRecording-Application Read Me
+# Implantables-BP2-Application Read Me
 
 ## Contents
 This repository is home to the application source code of the BP2 - Biopotential Recording Module in the COSMIIC System.
