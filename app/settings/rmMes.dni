@@ -1,0 +1,74 @@
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[DebugChecksum]
+<<<<<<< .mine
+Checksum=-329087463
+=======
+Checksum=1603461681
+>>>>>>> .r11
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[BreakpointUsageDialog]
+Placement=_ 694 383 1131 661
+[struct_types]
+Fmt0=EMG_FEATURE-numPoints	3	0
+Fmt1=EMG_RESULTS-MavSum	3	0
+Fmt2=EMG_RESULTS-lastRaw	3	0
+Fmt3=EMG_RESULTS-numPoints	3	0
+Fmt4=Message-cob_id	4	0
+[array_types]
+Fmt0=INT8 [5]	3	0
+Fmt1=INT8 [6]	3	0
+Fmt2=UINT16 [2]	4	0
+Fmt3=UINT8 [11]	3	0
+Fmt4=UINT8 [3]	3	0
+Fmt5=UINT8 [5]	3	0
+Fmt6=unsigned char[23]	3	0
+[watch_formats]
+Fmt0={W}0:ObjDict_obj1018_Serial_Number	4	0
+Fmt1={W}0:taskDelayMSecs	3	0
+Fmt2={W}0:testbyte	3	0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[Breakpoints]
+Count=0
+[Aliases]
+Count=0
+SuppressDialog=0

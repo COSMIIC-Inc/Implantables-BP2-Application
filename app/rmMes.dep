@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>755208947</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\nmtSlave.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\nmtMaster.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\objacces.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\can_AVR.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\app.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\emgTask.r90</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl3s-ec_mul.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\states.r90</file>
+      <file>$PROJ_DIR$\emgTask.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\iomacro.h</file>
+      <file>$PROJ_DIR$\..\canFest\include\objacces.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_AVR.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\nmtMaster.pbi</file>
+      <file>$PROJ_DIR$\..\canFest\include\avr\canfestival.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\objacces.pbi</file>
+      <file>$PROJ_DIR$\..\canFest\include\lifegrd.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sync.r90</file>
+      <file>$PROJ_DIR$\..\canFest\source\avr\can_AVR.c</file>
+      <file>$PROJ_DIR$\acceltemp.c</file>
+      <file>$PROJ_DIR$\eedata.c</file>
+      <file>$PROJ_DIR$\..\canFest\source\emcy.c</file>
+      <file>$PROJ_DIR$\..\canFest\source\nmtMaster.c</file>
+      <file>$PROJ_DIR$\..\canFest\source\lifegrd.c</file>
+      <file>$PROJ_DIR$\app.c</file>
+      <file>$PROJ_DIR$\meas.c</file>
+      <file>$PROJ_DIR$\..\canFest\source\lss.c</file>
+      <file>$PROJ_DIR$\..\canFest\source\nmtSlave.c</file>
+      <file>$PROJ_DIR$\emgTask.c</file>
+      <file>$PROJ_DIR$\..\canFest\source\objacces.c</file>
+      <file>$PROJ_DIR$\runcanserver.c</file>
+      <file>$PROJ_DIR$\..\canFest\source\pdo.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\states.pbi</file>
+      <file>$PROJ_DIR$\..\canFest\source\avr\timer_AVR.c</file>
+      <file>$PROJ_DIR$\..\canFest\source\sdo.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\pdo.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\nmtSlave.r90</file>
+      <file>$PROJ_DIR$\..\canFest\include\def.h</file>
+      <file>$TOOLKIT_DIR$\inc\bitdefinitions\iocan128.inc</file>
+      <file>$PROJ_DIR$\..\canFest\source\timer.c</file>
+      <file>$PROJ_DIR$\..\canFest\app\ObjDict.c</file>
+      <file>$PROJ_DIR$\..\canFest\source\states.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\sync.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\runcanserver.pbi</file>
+      <file>$PROJ_DIR$\..\canFest\source\sync.c</file>
+      <file>$PROJ_DIR$\..\canFest\app\ObjDict.h</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgcan128.xcl</file>
+      <file>$PROJ_DIR$\..\canFest\include\avr\can_drv.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rmMes.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\runcanserver.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\lss.r90</file>
+      <file>$PROJ_DIR$\..\canFest\include\nmtSlave.h</file>
+      <file>$PROJ_DIR$\..\canFest\include\timer.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\can_AVR.pbi</file>
+      <file>$PROJ_DIR$\..\canFest\include\data.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\emgTask.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ObjDict.r90</file>
+      <file>$PROJ_DIR$\runcanserver.h</file>
+      <file>$PROJ_DIR$\..\canFest\include\avr\timerscfg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\lifegrd.pbi</file>
+      <file>$PROJ_DIR$\..\canFest\include\avr\config.h</file>
+      <file>$TOOLKIT_DIR$\inc\iocan128.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\pdo.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$PROJ_DIR$\app.h</file>
+      <file>$PROJ_DIR$\..\canFest\include\avr\applicfg.h</file>
+      <file>$PROJ_DIR$\..\canFest\include\avr\iar.h</file>
+      <file>$PROJ_DIR$\..\canFest\include\emcy.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ObjDict.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\acceltemp.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\eedata.pbi</file>
+      <file>$PROJ_DIR$\..\canFest\include\states.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\meas.r90</file>
+      <file>$PROJ_DIR$\acceltemp.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sdo.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$TOOLKIT_DIR$\inc\ioavr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sdo.r90</file>
+      <file>$TOOLKIT_DIR$\src\template\cfg3soim.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\emcy.pbi</file>
+      <file>$PROJ_DIR$\..\canFest\include\nmtMaster.h</file>
+      <file>$PROJ_DIR$\..\canFest\include\sysdep.h</file>
+      <file>$PROJ_DIR$\eedata.h</file>
+      <file>$PROJ_DIR$\sys.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\lifegrd.r90</file>
+      <file>$PROJ_DIR$\..\canFest\include\sync.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$PROJ_DIR$\..\canFest\include\pdo.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\rmMes.bin</file>
+      <file>$PROJ_DIR$\Debug\Obj\meas.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\acceltemp.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\emgTask.lst</file>
+      <file>$PROJ_DIR$\..\canFest\include\sdo.h</file>
+      <file>$PROJ_DIR$\Debug\List\rmMes.map</file>
+      <file>$PROJ_DIR$\Debug\List\app.lst</file>
+      <file>$PROJ_DIR$\meas.h</file>
+      <file>$PROJ_DIR$\..\canFest\include\avr\can_AVR.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\emcy.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\lss.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\rmMes.d90</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_AVR.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.r90</file>
+      <file>$PROJ_DIR$\..\canFest\include\can.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\app.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\eedata.r90</file>
+      <file>$PROJ_DIR$\..\canFest\include\lss.h</file>
+      <file>$PROJ_DIR$\Debug\List\meas.lst</file>
+      <file>$PROJ_DIR$\..\canFest\include\objdictdef.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 102 96 91</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\avr\can_AVR.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62 10 54 77 90 66 14 47 67 76 64 105 51 61 99 45 85 38 89 11 16 68 52 59 86 37 110 95 72 88 81</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 99 61 77 62 10 38 85 67 47 105 66 89 64 86 76 14 54 37 110 11 95 52 59 90 72 16 88 51 81 68 45</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\acceltemp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 110 74 105 67 62 10 81 9 77 66 89 72 86 65 45 76 64 84 85 38 37 95 88 11 90 16 51 68 61 52 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 86 76 64 9 65 84 77 62 10 38 85 67 105 66 89 54 37 61 110 11 95 52 59 90 72 16 88 51 81 68 74 45</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\eedata.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 107</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105 66 62 51 77 84 54 86 110 67 85 38 90 64 37 9 45 83 11 76 10 16 68 95 72 88 81 89 61 52 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 86 76 64 9 84 77 62 10 38 85 67 45 54 66 89 105 37 61 110 11 95 52 59 90 72 16 88 51 81 68 83</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\emcy.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 100</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 54 66 64 11 68 86 14 105 90 51 61 85 82 37 110 95 72 88 81 89 76 77 67 62 10 38 52 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 54 66 89 64 86 76 105 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 51 81 68 14 82</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\nmtMaster.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 66 72 67 38 110 81 89 54 82 37 95 88 64 77 62 10 105 14 11 90 16 51 68 86 61 85 52 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 81 54 66 89 64 86 76 105 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 51 68 14 82</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\lifegrd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 87</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72 67 76 52 85 14 110 81 89 59 66 54 84 37 95 88 64 77 62 10 16 82 45 105 11 90 51 68 86 61 38</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 54 66 89 64 86 76 105 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 51 81 68 14 82 84 45</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\app.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 97 106</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77 105 66 54 65 16 59 58 45 67 62 10 11 68 84 14 8 83 74 85 38 86 64 90 51 89 76 37 110 95 72 88 81 61 52</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 84 77 62 10 38 85 67 14 66 89 64 86 76 105 54 37 61 110 11 95 52 59 90 72 16 88 51 81 68 58 8 65 83 45 74</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\meas.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 109 73</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 110 45 67 10 98 64 62 81 54 66 84 86 65 76 77 72 61 85 52 47 51 99 38 37 95 88 105 11 90 16 68 89 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 86 76 64 9 84 77 62 10 38 85 67 98 45 54 66 89 105 37 61 110 11 95 52 59 90 72 16 88 51 81 68 65 99 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\lss.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 67 72 38 54 76 110 81 89 14 37 95 88 64 77 62 10 108 82 105 11 90 16 51 68 86 61 85 52 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 54 66 89 64 86 76 105 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 51 81 68 108 14 82</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\nmtSlave.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 105 67 16 62 37 54 82 11 68 77 10 72 83 98 86 64 90 51 45 14 65 74 89 76 110 95 88 81 61 85 52 38 59 84</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 51 66 89 64 86 76 105 54 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 81 68 14 82 45 83 65 84 74 98</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\emgTask.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 94 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 99 66 54 84 85 38 11 68 86 67 47 9 98 76 64 77 62 10 105 90 51 37 45 110 95 72 88 81 89 61 52 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 86 76 64 9 84 77 62 10 38 85 67 98 45 54 66 89 105 37 61 110 11 95 52 59 90 72 16 88 51 81 68 99 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\objacces.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 81 89 110 66 72 76 67 38 37 95 88 64 77 62 10 105 11 90 16 51 68 86 61 85 52 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 54 66 89 64 86 76 105 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 51 81 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\runcanserver.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 64 37 47 88 77 58 89 76 95 62 10 99 66 110 72 81 67 14 45 84 86 105 11 90 16 51 68 61 85 38 9 52 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 9 64 14 66 89 86 76 105 54 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 51 81 68 99 47 45 58 84</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\pdo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105 11 54 66 81 37 61 85 110 86 64 72 90 14 82 89 76 77 67 62 10 38 95 88 16 51 68 52 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 90 66 89 64 86 76 105 37 61 77 62 10 38 85 67 54 110 11 95 52 59 72 16 88 51 81 68 14 82</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\avr\timer_AVR.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 103</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 88 77 89 37 66 76 95 62 10 54 64 110 72 81 67 38 52 86 105 11 90 16 51 68 61 85 14 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 14 66 89 64 86 76 105 54 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 51 81 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\sdo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 64 37 72 54 14 110 81 67 38 89 76 95 88 77 62 10 82 86 105 11 90 16 51 68 61 85 52 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 14 66 89 64 86 76 105 54 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 51 81 68 82</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 104</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 51 61 85 59 105 54 89 90 66 45 64 11 16 68 52 86 37 110 95 72 88 81 77 67 62 10 38</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 66 89 64 86 76 105 52 59 54 37 61 77 62 10 38 85 67 110 11 95 90 72 16 88 51 81 68 45</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\app\ObjDict.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 10 88 64 62 66 95 77 54 110 72 81 89 76 67 38 45 105 11 90 16 51 68 86 61 85 52 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 45 54 66 89 64 86 76 105 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 51 81 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\states.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 52 77 16 10 11 68 64 62 105 90 51 89 76 67 38 54 61 82 58 37 110 95 72 88 81 86 85 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 54 66 89 64 86 76 105 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 51 81 68 82 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\canFest\source\sync.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77 66 16 10 54 45 11 68 64 62 14 105 90 51 89 76 67 52 88 82 65 37 110 95 72 81 86 61 85 38 59 84</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 54 66 89 64 86 76 105 37 61 77 62 10 38 85 67 110 11 95 52 59 90 72 16 88 51 81 68 14 82 45 65 84</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\rmMes.bin</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 46 79 57 70 106 3 107 100 5 87 50 73 1 36 2 35 49 78 7 17 104 12 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\rmMes.d90</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 96 91</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 46 79 70 106 3 107 100 5 87 50 73 1 36 2 57 35 49 78 7 17 104 12 6</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

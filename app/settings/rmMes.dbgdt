@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Breakpoints</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1338</ColumnWidth1></Debug-Log>
+      <Build>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows>
+            <Window>
+              <Factory>Debug-Log</Factory>
+            </Window>
+          </Windows>
+        </PreferedWindows>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1003</ColumnWidth1>
+        <ColumnWidth2>267</ColumnWidth2>
+        <ColumnWidth3>66</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>553</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Register</Factory></Window><Window><Factory>CallStack</Factory></Window><Window><Factory>Locals</Factory></Window><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows>
+      </Workspace>
+      <Disassembly>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window><Window><Factory>Register</Factory></Window><Window><Factory>CallStack</Factory></Window><Window><Factory>Locals</Factory></Window><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows>
+        
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow><col-names><item>Disassembly</item><item>_I0</item></col-names><col-widths><item>500</item><item>20</item></col-widths><DisasmHistory><item>0</item><item>0x940c</item><item>0000</item><item>0x3ac7</item><item>3ac7</item></DisasmHistory><ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+      <Watch>
+        <Format>
+          <struct_types/>
+          <watch_formats/>
+        </Format>
+      <Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Watch>
+      <Locals>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window><Window><Factory>Register</Factory></Window><Window><Factory>CallStack</Factory></Window><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows>
+        
+        
+        
+        
+      <Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3><col-names><item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names><col-widths><item>150</item><item>100</item><item>100</item><item>100</item></col-widths></Locals>
+      <CallStack>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window><Window><Factory>Register</Factory></Window><Window><Factory>Locals</Factory></Window><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows>
+        
+      <ViewArgs>1</ViewArgs><col-names><item>Frame</item><item>_I0</item></col-names><col-widths><item>400</item><item>20</item></col-widths></CallStack>
+      <Register>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window><Window><Factory>CallStack</Factory></Window><Window><Factory>Locals</Factory></Window><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows>
+      </Register>
+      <SymbolicMemory>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <Location>88</Location>
+        <Data>88</Data>
+        <Variable>120</Variable>
+        <Value>60</Value>
+        <Type>75</Type>
+      </SymbolicMemory>
+      <Profiling>
+        <ColumnWidths>
+          <Column0>125</Column0>
+          <Column1>125</Column1>
+          <Column2>125</Column2>
+          <Column3>125</Column3>
+          <Column4>125</Column4>
+          <Column5>125</Column5>
+        </ColumnWidths>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <Graph>0</Graph>
+        <AutoRefresh>0</AutoRefresh>
+      </Profiling>
+    <Find-in-Files><ColumnWidth0>481</ColumnWidth0><ColumnWidth1>68</ColumnWidth1><ColumnWidth2>825</ColumnWidth2></Find-in-Files><WATCH_1><expressions><item>EmgFeature</item><item>fPar</item><item>EmgResults</item><item>MeasNormal</item><item>MeasSeq</item><item>Config_Period</item><item>PdoBuffer</item><item>tempNodeID</item><item>Status_NodeId</item><item>ObjDict_obj1018_Serial_Number</item><item>taskDelayMSecs</item><item>t</item><item>sysTimer</item><item>accelData</item><item>fPar.feature-&gt;select</item><item>isActive</item><item>fPar.ODvar-&gt;featureSelect</item><item>MeasSeq</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>193</item><item>150</item><item>100</item><item>277</item></col-widths><PreferedWindows><Position>4</Position><ScreenPosX>2091</ScreenPosX><ScreenPosY>193</ScreenPosY><Windows/></PreferedWindows></WATCH_1><Memory><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><FindDirection>1</FindDirection><FindAsHex>0</FindAsHex></Memory><Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows></Breakpoints></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          
+          
+        <Tab><Identity>TabID-20601-9423</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-18872-19775</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd0><Wnd2><Tabs><Tab><Identity>TabID-26651-19220</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>rmMes</ExpandedNode><ExpandedNode>rmMes/app</ExpandedNode><ExpandedNode>rmMes/app/temprLm74.c</ExpandedNode><ExpandedNode>rmMes/canFest</ExpandedNode></NodeDict></Session></Tab><Tab><Identity>TabID-12725-25827</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\avr\canfestival.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1119</SelStart><SelEnd>1119</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\avr\applicfg.h</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>1037</SelStart><SelEnd>1037</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\runcanserver.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>58</SelStart><SelEnd>73</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\lifegrd.h</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>1138</SelStart><SelEnd>1138</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\nmtMaster.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>874</SelStart><SelEnd>1005</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\nmtSlave.h</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>1419</SelStart><SelEnd>1419</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\sdo.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1055</SelStart><SelEnd>1055</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\emcy.h</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>975</SelStart><SelEnd>975</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\emcy.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1519</SelStart><SelEnd>1570</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\timer.h</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>1668</SelStart><SelEnd>1668</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\lss.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>955</SelStart><SelEnd>955</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\timer.c</Filename><XPos>0</XPos><YPos>146</YPos><SelStart>4719</SelStart><SelEnd>4719</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\avr\can_AVR.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1993</SelStart><SelEnd>1993</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\sync.h</Filename><XPos>0</XPos><YPos>20</YPos><SelStart>1347</SelStart><SelEnd>1347</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\sync.c</Filename><XPos>0</XPos><YPos>158</YPos><SelStart>5461</SelStart><SelEnd>5461</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\can.h</Filename><XPos>0</XPos><YPos>11</YPos><SelStart>1454</SelStart><SelEnd>1454</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\objdictdef.h</Filename><XPos>0</XPos><YPos>91</YPos><SelStart>3606</SelStart><SelEnd>3606</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\eedata.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>340</SelStart><SelEnd>340</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\lss.c</Filename><XPos>0</XPos><YPos>85</YPos><SelStart>3636</SelStart><SelEnd>3636</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\sdo.c</Filename><XPos>0</XPos><YPos>122</YPos><SelStart>4781</SelStart><SelEnd>4781</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\data.h</Filename><XPos>0</XPos><YPos>152</YPos><SelStart>1221</SelStart><SelEnd>1221</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\avr\timerscfg.h</Filename><XPos>0</XPos><YPos>40</YPos><SelStart>1620</SelStart><SelEnd>1620</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\avr\timer_AVR.c</Filename><XPos>0</XPos><YPos>46</YPos><SelStart>2285</SelStart><SelEnd>2285</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\scheduler.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>151</SelStart><SelEnd>190</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\lifegrd.c</Filename><XPos>0</XPos><YPos>237</YPos><SelStart>8292</SelStart><SelEnd>8292</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\objacces.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>1053</SelStart><SelEnd>1053</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\avr\config.h</Filename><XPos>0</XPos><YPos>29</YPos><SelStart>1551</SelStart><SelEnd>1551</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\objacces.c</Filename><XPos>0</XPos><YPos>312</YPos><SelStart>11746</SelStart><SelEnd>11746</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\avr\inc\bitdefinitions\iocan128.inc</Filename><XPos>0</XPos><YPos>853</YPos><SelStart>14968</SelStart><SelEnd>14968</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app.h</Filename><XPos>0</XPos><YPos>8</YPos><SelStart>816</SelStart><SelEnd>816</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\avr\iar.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1571</SelStart><SelEnd>1571</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Debug\List\rmMes.map</Filename><XPos>0</XPos><YPos>6573</YPos><SelStart>89</SelStart><SelEnd>89</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\app\ObjDict.h</Filename><XPos>0</XPos><YPos>41</YPos><SelStart>2609</SelStart><SelEnd>2609</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\meas.h</Filename><XPos>0</XPos><YPos>58</YPos><SelStart>1251</SelStart><SelEnd>1251</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\runcanserver.c</Filename><XPos>0</XPos><YPos>61</YPos><SelStart>1675</SelStart><SelEnd>1675</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\pdo.c</Filename><XPos>0</XPos><YPos>478</YPos><SelStart>17911</SelStart><SelEnd>17911</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\pdo.h</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>2404</SelStart><SelEnd>2404</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\acceltemp.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>401</SelStart><SelEnd>401</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\acceltemp.c</Filename><XPos>0</XPos><YPos>159</YPos><SelStart>3587</SelStart><SelEnd>3587</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\avr\inc\iocan128.h</Filename><XPos>0</XPos><YPos>216</YPos><SelStart>11928</SelStart><SelEnd>11928</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\app\ObjDict.c</Filename><XPos>0</XPos><YPos>172</YPos><SelStart>8815</SelStart><SelEnd>8815</SelEnd></Tab><ActiveTab>40</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\avr\can_drv.h</Filename><XPos>0</XPos><YPos>99</YPos><SelStart>6012</SelStart><SelEnd>6012</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\avr\can_AVR.c</Filename><XPos>0</XPos><YPos>323</YPos><SelStart>10439</SelStart><SelEnd>10439</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\eedata.c</Filename><XPos>0</XPos><YPos>304</YPos><SelStart>9621</SelStart><SelEnd>9621</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\avr\inc\intrinsics.h</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>1127</SelStart><SelEnd>1127</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\emgTask.c</Filename><XPos>0</XPos><YPos>171</YPos><SelStart>4499</SelStart><SelEnd>4499</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\nmtMaster.c</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>1094</SelStart><SelEnd>1094</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sys.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>210</SelStart><SelEnd>210</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\meas.c</Filename><XPos>0</XPos><YPos>739</YPos><SelStart>18937</SelStart><SelEnd>18937</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\states.h</Filename><XPos>0</XPos><YPos>38</YPos><SelStart>1635</SelStart><SelEnd>1635</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\states.c</Filename><XPos>0</XPos><YPos>246</YPos><SelStart>7619</SelStart><SelEnd>7619</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\include\def.h</Filename><XPos>0</XPos><YPos>127</YPos><SelStart>4790</SelStart><SelEnd>4790</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\canFest\source\nmtSlave.c</Filename><XPos>0</XPos><YPos>96</YPos><SelStart>3355</SelStart><SelEnd>3355</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app.c</Filename><XPos>0</XPos><YPos>31</YPos><SelStart>1302</SelStart><SelEnd>1302</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\emgTask.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>300</SelStart><SelEnd>300</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00e85ba8><key>iaridepm.enu1</key></Toolbar-00e85ba8></Sizes></Row0><Row1><Sizes><Toolbar-071aa158><key>debuggergui.enu1</key></Toolbar-071aa158></Sizes></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>618</Bottom><Right>627</Right><x>-2</x><y>-2</y><xscreen>549</xscreen><yscreen>193</yscreen><sizeHorzCX>285938</sizeHorzCX><sizeHorzCY>193387</sizeHorzCY><sizeVertCX>327604</sizeVertCX><sizeVertCY>621242</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>311</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>313</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>313627</sizeHorzCY><sizeVertCX>620833</sizeVertCX><sizeVertCY>203407</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
